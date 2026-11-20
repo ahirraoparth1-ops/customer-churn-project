@@ -13,7 +13,7 @@ Which customer segments show higher churn, and what should the business investig
 - `notebooks/02_data_visualization.ipynb` — visual exploration of processed data
 - `Final_Data_Insights/Data_Insights.ipynb` — It is the final Insights of customer Churn
 - `Processed_data/processed/` — processed analysis CSV and SQLite database
-- `portfolio/Customer_Churn_Analysis.ipynb` — portfolio version of the analysis
+
 
 ## Project workflow
 
